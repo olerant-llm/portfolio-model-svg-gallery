@@ -1,0 +1,12 @@
+{
+  "gsap": {
+    "version": "3.15.0",
+    "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb",
+    "source": "https://registry.npmjs.org/gsap/-/gsap-3.15.0.tgz"
+  },
+  "acorn": {
+    "version": "8.18.0",
+    "sha256": "fc3ed7b81e58464715d0291402892f22c3d86ea75302645a330390f85d8015c9",
+    "source": "existing workspace acorn/dist/acorn.js"
+  }
+}
